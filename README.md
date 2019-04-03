@@ -1,10 +1,10 @@
 # my-first-blog
 
-##项目背景
+## 项目背景
 来自于GitBook中的一个项目: [Django博客入门](https://www.gitbook.com/book/shenxgan/django/details)
 
-##项目中遇到的坑
-###1.MySQLdb安装
+## 项目中遇到的坑
+### 1.MySQLdb安装
 问题:使用`pip3 install mysql-python`命令安装时, 一直出现`ImportError: No module named 'ConfigParser'`错误. 将依赖包安装完成后, 还是不行. 
 
 原因: 
